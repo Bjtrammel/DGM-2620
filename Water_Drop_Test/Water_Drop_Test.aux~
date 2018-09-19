@@ -42,6 +42,8 @@
   <Drawing Key="" Name="39" Version="1"/>
   <Drawing Key="" Name="40" Version="1"/>
   <Drawing Key="" Name="41" Version="1"/>
+  <Drawing Key="" Name="42" Version="1"/>
+  <Drawing Key="" Name="43" Version="1"/>
  </Element>
  <Element Name="X_Layer" ID="2" Folder="X_Layer">
   <Drawing Key="" Name="1" Version="1"/>
@@ -77,6 +79,13 @@
   <Drawing Key="" Name="19" Version="1"/>
   <Drawing Key="" Name="26" Version="1"/>
   <Drawing Key="" Name="23" Version="1"/>
+  <Drawing Key="" Name="13" Version="1"/>
+  <Drawing Key="" Name="42" Version="1"/>
+  <Drawing Key="" Name="43" Version="1"/>
+  <Drawing Key="" Name="44" Version="1"/>
+  <Drawing Key="" Name="45" Version="1"/>
+  <Drawing Key="" Name="46" Version="1"/>
+  <Drawing Key="" Name="47" Version="1"/>
  </Element>
  <Element Name="Rough" ID="4" Folder="Rough">
   <Drawing Key="" Name="1" Version="1"/>
@@ -105,6 +114,8 @@
   <Drawing Key="" Name="23" Version="1"/>
   <Drawing Key="" Name="24" Version="1"/>
   <Drawing Key="" Name="25" Version="1"/>
+  <Drawing Key="" Name="42" Version="1"/>
+  <Drawing Key="" Name="43" Version="1"/>
  </Element>
  <Element Name="Drops" ID="5" Folder="Drops">
   <Drawing Key="" Name="1" Version="1"/>
