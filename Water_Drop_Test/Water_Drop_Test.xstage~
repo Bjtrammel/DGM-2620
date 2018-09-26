@@ -138,6 +138,7 @@
     <dwg name="8"/>
     <dwg name="9"/>
     <dwg name="10"/>
+    <dwg name="11"/>
    </drawings>
   </element>
   <element id="6" elementName="LineofAction" elementFolder="LineofAction" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -236,7 +237,9 @@
      <elementSeq exposures="39" val="18" id="4"/>
      <elementSeq exposures="40" val="19" id="4"/>
     </column>
-    <column type="0" name="ATV-094C77598EB3169E" displayOrder="2" width="100" anonymous="true" id="5"/>
+    <column type="0" name="ATV-094C77598EB3169E" displayOrder="2" width="100" anonymous="true" id="5">
+     <elementSeq exposures="13" val="11" id="5"/>
+    </column>
     <column type="0" name="ATV-094C77598EB31B7E" display="false" displayOrder="5" width="100" anonymous="true" id="6">
      <elementSeq exposures="1-27" val="1" id="6"/>
     </column>
