@@ -5,4 +5,5 @@
  <element id="3" elementName="400_F_179099435_mFVgIXHD27VukyBlfDbLrreUPuYeIh0v" elementFolder="400_F_179099435_mFVgIXHD27VukyBlfDbLrreUPuYeIh0v" pixmapFormat="11" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
  <element id="4" elementName="vintage_easter_lilies_victorian_flowers_in_bloom_mouse_pad" elementFolder="vintage_easter_lilies_victorian_flowers_in_bloom_mouse_pad" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="5" elementName="SmokeArrows" elementFolder="SmokeArrows" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="6" elementName="Drawing" elementFolder="Drawing" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>
