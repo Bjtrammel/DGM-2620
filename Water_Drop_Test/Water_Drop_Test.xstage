@@ -93,6 +93,12 @@
     <dwg name="46"/>
     <dwg name="47"/>
     <dwg name="24"/>
+    <dwg name="27"/>
+    <dwg name="28"/>
+    <dwg name="29"/>
+    <dwg name="30"/>
+    <dwg name="31"/>
+    <dwg name="32"/>
    </drawings>
   </element>
   <element id="4" elementName="Rough" elementFolder="Rough" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -141,6 +147,21 @@
     <dwg name="10"/>
     <dwg name="11"/>
     <dwg name="12"/>
+    <dwg name="13"/>
+    <dwg name="14"/>
+    <dwg name="15"/>
+    <dwg name="16"/>
+    <dwg name="17"/>
+    <dwg name="18"/>
+    <dwg name="19"/>
+    <dwg name="26"/>
+    <dwg name="23"/>
+    <dwg name="24"/>
+    <dwg name="20"/>
+    <dwg name="21"/>
+    <dwg name="22"/>
+    <dwg name="25"/>
+    <dwg name="27"/>
    </drawings>
   </element>
   <element id="6" elementName="LineofAction" elementFolder="LineofAction" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -162,7 +183,7 @@
  </options>
  <timelineMarkers/>
  <scenes>
-  <scene name="Top" id="09477a648ce0083d" nbframes="60">
+  <scene name="Top" id="09477a648ce0083d" nbframes="43">
    <columns>
     <column type="0" name="Drawing" displayOrder="4" width="100" anonymous="true" id="1">
      <elementSeq exposures="1" val="1" id="1"/>
@@ -197,14 +218,16 @@
      <elementSeq exposures="40" val="38" id="1"/>
      <elementSeq exposures="41" val="39" id="1"/>
     </column>
-    <column type="0" name="X_Layer" displayOrder="6" width="100" anonymous="true" id="2">
+    <column type="0" name="X_Layer" display="false" displayOrder="6" width="100" anonymous="true" id="2">
      <elementSeq exposures="1-36" val="1" id="2"/>
     </column>
-    <column type="0" name="ATV-0949783556628674" displayOrder="3" width="100" anonymous="true" id="3">
-     <elementSeq exposures="13" val="26" id="3"/>
-     <elementSeq exposures="14" val="23" id="3"/>
-     <elementSeq exposures="15" val="10" id="3"/>
-     <elementSeq exposures="16" val="24" id="3"/>
+    <column type="0" name="ATV-0949783556628674" display="false" displayOrder="3" width="100" anonymous="true" id="3">
+     <elementSeq exposures="16-18" val="24" id="3"/>
+     <elementSeq exposures="19" val="27" id="3"/>
+     <elementSeq exposures="20" val="28" id="3"/>
+     <elementSeq exposures="21" val="32" id="3"/>
+     <elementSeq exposures="22" val="29" id="3"/>
+     <elementSeq exposures="23" val="31" id="3"/>
      <elementSeq exposures="24" val="16" id="3"/>
      <elementSeq exposures="25" val="17" id="3"/>
      <elementSeq exposures="41" val="18" id="3"/>
@@ -230,8 +253,22 @@
      <elementSeq exposures="40,57" val="19" id="4"/>
     </column>
     <column type="0" name="ATV-094C77598EB3169E" displayOrder="2" width="100" anonymous="true" id="5">
-     <elementSeq exposures="13-15" val="11" id="5"/>
-     <elementSeq exposures="16" val="12" id="5"/>
+     <elementSeq exposures="13" val="26" id="5"/>
+     <elementSeq exposures="14" val="23" id="5"/>
+     <elementSeq exposures="15" val="24" id="5"/>
+     <elementSeq exposures="16-18" val="12" id="5"/>
+     <elementSeq exposures="19" val="13" id="5"/>
+     <elementSeq exposures="20" val="14" id="5"/>
+     <elementSeq exposures="21" val="15" id="5"/>
+     <elementSeq exposures="22" val="16" id="5"/>
+     <elementSeq exposures="23" val="17" id="5"/>
+     <elementSeq exposures="24" val="18" id="5"/>
+     <elementSeq exposures="25" val="19" id="5"/>
+     <elementSeq exposures="26" val="20" id="5"/>
+     <elementSeq exposures="27" val="21" id="5"/>
+     <elementSeq exposures="28" val="22" id="5"/>
+     <elementSeq exposures="29-42" val="25" id="5"/>
+     <elementSeq exposures="43" val="27" id="5"/>
     </column>
     <column type="0" name="ATV-094C77598EB31B7E" displayOrder="5" width="100" anonymous="true" id="6">
      <elementSeq exposures="1-27" val="1" id="6"/>
@@ -402,6 +439,7 @@
      </module>
      <module type="READ" name="X_Layer" pos="0,0,0" publishUnderTab="Drawing_1">
       <options>
+       <disabled val="true"/>
        <version val="1"/>
        <collapsed val="true"/>
       </options>
@@ -506,6 +544,7 @@
      </module>
      <module type="READ" name="Crown" pos="0,0,0" publishUnderTab="Crown">
       <options>
+       <disabled val="true"/>
        <version val="1"/>
        <collapsed val="true"/>
       </options>
