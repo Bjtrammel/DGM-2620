@@ -6,4 +6,7 @@
  <element id="4" elementName="vintage_easter_lilies_victorian_flowers_in_bloom_mouse_pad" elementFolder="vintage_easter_lilies_victorian_flowers_in_bloom_mouse_pad" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="5" elementName="SmokeArrows" elementFolder="SmokeArrows" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="6" elementName="Drawing" elementFolder="Drawing" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="7" elementName="Line_1" elementFolder="Line_1" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="8" elementName="Line_2" elementFolder="Line_2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="9" elementName="FinalLineArt" elementFolder="FinalLineArt" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>
