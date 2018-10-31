@@ -91,7 +91,17 @@
     <dwg name="12"/>
    </drawings>
   </element>
-  <element id="8" elementName="Line_2" elementFolder="Line_2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+  <element id="8" elementName="Line_2" elementFolder="Line_2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+    <dwg name="2"/>
+    <dwg name="3"/>
+    <dwg name="4"/>
+    <dwg name="5"/>
+    <dwg name="6"/>
+    <dwg name="7"/>
+   </drawings>
+  </element>
   <element id="9" elementName="FinalLineArt" elementFolder="FinalLineArt" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
@@ -111,73 +121,81 @@
  </options>
  <timelineMarkers/>
  <scenes>
-  <scene name="Top" id="0955b58c6a800a19" nbframes="60">
+  <scene name="Top" id="0955b58c6a800a19" nbframes="18">
    <columns>
     <column type="0" name="Whisp" displayOrder="7" width="100" anonymous="true" id="1">
-     <elementSeq exposures="49" val="16" id="1"/>
-     <elementSeq exposures="50" val="15" id="1"/>
-     <elementSeq exposures="51" val="14" id="1"/>
-     <elementSeq exposures="52" val="13" id="1"/>
-     <elementSeq exposures="53" val="12" id="1"/>
-     <elementSeq exposures="54" val="6" id="1"/>
-     <elementSeq exposures="55" val="5" id="1"/>
-     <elementSeq exposures="56" val="4" id="1"/>
-     <elementSeq exposures="57" val="3" id="1"/>
-     <elementSeq exposures="58" val="2" id="1"/>
-     <elementSeq exposures="59" val="1" id="1"/>
+     <elementSeq exposures="8" val="16" id="1"/>
+     <elementSeq exposures="9" val="15" id="1"/>
+     <elementSeq exposures="10" val="14" id="1"/>
+     <elementSeq exposures="11" val="13" id="1"/>
+     <elementSeq exposures="12" val="12" id="1"/>
+     <elementSeq exposures="13" val="6" id="1"/>
+     <elementSeq exposures="14" val="5" id="1"/>
+     <elementSeq exposures="15" val="4" id="1"/>
+     <elementSeq exposures="16" val="3" id="1"/>
+     <elementSeq exposures="17" val="2" id="1"/>
+     <elementSeq exposures="18" val="1" id="1"/>
     </column>
-    <column type="0" name="Line" display="false" displayOrder="4" width="100" anonymous="true" id="2">
-     <elementSeq exposures="49" val="14" id="2"/>
-     <elementSeq exposures="50" val="13" id="2"/>
-     <elementSeq exposures="51" val="12" id="2"/>
-     <elementSeq exposures="52" val="11" id="2"/>
-     <elementSeq exposures="53" val="10" id="2"/>
-     <elementSeq exposures="54" val="9" id="2"/>
-     <elementSeq exposures="55" val="8" id="2"/>
-     <elementSeq exposures="56" val="7" id="2"/>
-     <elementSeq exposures="57" val="5" id="2"/>
-     <elementSeq exposures="58" val="6" id="2"/>
-     <elementSeq exposures="59" val="1" id="2"/>
+    <column type="0" name="Line" displayOrder="4" width="100" anonymous="true" id="2">
+     <elementSeq exposures="8" val="14" id="2"/>
+     <elementSeq exposures="9" val="13" id="2"/>
+     <elementSeq exposures="10" val="12" id="2"/>
+     <elementSeq exposures="11" val="11" id="2"/>
+     <elementSeq exposures="12" val="10" id="2"/>
+     <elementSeq exposures="13" val="9" id="2"/>
+     <elementSeq exposures="14" val="8" id="2"/>
+     <elementSeq exposures="15" val="7" id="2"/>
+     <elementSeq exposures="16" val="5" id="2"/>
+     <elementSeq exposures="17" val="6" id="2"/>
+     <elementSeq exposures="18" val="1" id="2"/>
     </column>
-    <column type="0" name="ATV-0955B58C6A8050FA" display="false" displayOrder="9" width="100" anonymous="true" id="3">
+    <column type="0" name="ATV-0955B58C6A8050FA" displayOrder="9" width="100" anonymous="true" id="3">
      <elementSeq exposures="1-60" val="1" id="3"/>
     </column>
-    <column type="0" name="ATV-0955B58C6A81C33D" display="false" displayOrder="8" width="100" anonymous="true" id="4">
+    <column type="0" name="ATV-0955B58C6A81C33D" displayOrder="8" width="100" anonymous="true" id="4">
      <elementSeq exposures="1-60" val="rcd50a1baa8fc4c02946dac140740294d_x74vk_8byvr_307" id="4"/>
     </column>
-    <column type="0" name="ATV-0955B58C6A83A86E" display="false" displayOrder="2" width="100" anonymous="true" id="5">
-     <elementSeq exposures="32-59" val="2" id="5"/>
+    <column type="0" name="ATV-0955B58C6A83A86E" displayOrder="2" width="100" anonymous="true" id="5">
+     <elementSeq exposures="1-18,32-60" val="2" id="5"/>
     </column>
-    <column type="0" name="ATV-09563602BB264A22" display="false" displayOrder="3" width="100" anonymous="true" id="6">
-     <elementSeq exposures="48" val="11" id="6"/>
-     <elementSeq exposures="49" val="10" id="6"/>
-     <elementSeq exposures="50" val="9" id="6"/>
-     <elementSeq exposures="51" val="8" id="6"/>
-     <elementSeq exposures="52" val="7" id="6"/>
-     <elementSeq exposures="53" val="6" id="6"/>
-     <elementSeq exposures="54" val="5" id="6"/>
-     <elementSeq exposures="55" val="4" id="6"/>
-     <elementSeq exposures="56" val="3" id="6"/>
-     <elementSeq exposures="57" val="2" id="6"/>
-     <elementSeq exposures="58" val="1" id="6"/>
+    <column type="0" name="ATV-09563602BB264A22" displayOrder="3" width="100" anonymous="true" id="6">
+     <elementSeq exposures="7" val="11" id="6"/>
+     <elementSeq exposures="8" val="10" id="6"/>
+     <elementSeq exposures="9" val="9" id="6"/>
+     <elementSeq exposures="10" val="8" id="6"/>
+     <elementSeq exposures="11" val="7" id="6"/>
+     <elementSeq exposures="12" val="6" id="6"/>
+     <elementSeq exposures="13" val="5" id="6"/>
+     <elementSeq exposures="14" val="4" id="6"/>
+     <elementSeq exposures="15" val="3" id="6"/>
+     <elementSeq exposures="16" val="2" id="6"/>
+     <elementSeq exposures="17" val="1" id="6"/>
     </column>
-    <column type="0" name="ATV-095779D503A2A8BD" displayOrder="5" width="100" anonymous="true" id="7">
-     <elementSeq exposures="48" val="11" id="7"/>
-     <elementSeq exposures="49" val="10" id="7"/>
-     <elementSeq exposures="50" val="9" id="7"/>
-     <elementSeq exposures="51" val="8" id="7"/>
-     <elementSeq exposures="52" val="7" id="7"/>
-     <elementSeq exposures="53" val="6" id="7"/>
-     <elementSeq exposures="54" val="5" id="7"/>
-     <elementSeq exposures="55" val="4" id="7"/>
-     <elementSeq exposures="56" val="3" id="7"/>
-     <elementSeq exposures="57" val="2" id="7"/>
-     <elementSeq exposures="58" val="1" id="7"/>
-     <elementSeq exposures="59" val="12" id="7"/>
+    <column type="0" name="ATV-095779D503A2A8BD" display="false" displayOrder="5" width="100" anonymous="true" id="7">
+     <elementSeq exposures="7" val="11" id="7"/>
+     <elementSeq exposures="8" val="10" id="7"/>
+     <elementSeq exposures="9" val="9" id="7"/>
+     <elementSeq exposures="10" val="8" id="7"/>
+     <elementSeq exposures="11" val="7" id="7"/>
+     <elementSeq exposures="12" val="6" id="7"/>
+     <elementSeq exposures="13" val="5" id="7"/>
+     <elementSeq exposures="14" val="4" id="7"/>
+     <elementSeq exposures="15" val="3" id="7"/>
+     <elementSeq exposures="16" val="2" id="7"/>
+     <elementSeq exposures="17" val="1" id="7"/>
+     <elementSeq exposures="18" val="12" id="7"/>
     </column>
-    <column type="0" name="ATV-095779D503A2AA21" displayOrder="6" width="100" anonymous="true" id="8"/>
+    <column type="0" name="ATV-095779D503A2AA21" displayOrder="6" width="100" anonymous="true" id="8">
+     <elementSeq exposures="12" val="6" id="8"/>
+     <elementSeq exposures="13" val="5" id="8"/>
+     <elementSeq exposures="14" val="4" id="8"/>
+     <elementSeq exposures="15" val="3" id="8"/>
+     <elementSeq exposures="16" val="2" id="8"/>
+     <elementSeq exposures="17" val="7" id="8"/>
+     <elementSeq exposures="18" val="1" id="8"/>
+    </column>
     <column type="0" name="ATV-095779D503A316AD" display="false" displayOrder="1" width="100" anonymous="true" id="9">
-     <elementSeq exposures="42-59" val="1" id="9"/>
+     <elementSeq exposures="1-18" val="1" id="9"/>
     </column>
    </columns>
    <options>
@@ -241,6 +259,7 @@
      </module>
      <module type="READ" name="Line_1" pos="0,0,0" publishUnderTab="Line_1">
       <options>
+       <disabled val="true"/>
        <version val="1"/>
        <collapsed val="false"/>
       </options>
