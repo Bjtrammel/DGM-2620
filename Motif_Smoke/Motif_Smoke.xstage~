@@ -100,6 +100,12 @@
     <dwg name="5"/>
     <dwg name="6"/>
     <dwg name="7"/>
+    <dwg name="8"/>
+    <dwg name="9"/>
+    <dwg name="10"/>
+    <dwg name="11"/>
+    <dwg name="12"/>
+    <dwg name="13"/>
    </drawings>
   </element>
   <element id="9" elementName="FinalLineArt" elementFolder="FinalLineArt" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -171,7 +177,7 @@
      <elementSeq exposures="16" val="2" id="6"/>
      <elementSeq exposures="17" val="1" id="6"/>
     </column>
-    <column type="0" name="ATV-095779D503A2A8BD" display="false" displayOrder="5" width="100" anonymous="true" id="7">
+    <column type="0" name="ATV-095779D503A2A8BD" displayOrder="5" width="100" anonymous="true" id="7">
      <elementSeq exposures="7" val="11" id="7"/>
      <elementSeq exposures="8" val="10" id="7"/>
      <elementSeq exposures="9" val="9" id="7"/>
@@ -185,7 +191,13 @@
      <elementSeq exposures="17" val="1" id="7"/>
      <elementSeq exposures="18" val="12" id="7"/>
     </column>
-    <column type="0" name="ATV-095779D503A2AA21" displayOrder="6" width="100" anonymous="true" id="8">
+    <column type="0" name="ATV-095779D503A2AA21" display="false" displayOrder="6" width="100" anonymous="true" id="8">
+     <elementSeq exposures="6" val="12" id="8"/>
+     <elementSeq exposures="7" val="11" id="8"/>
+     <elementSeq exposures="8" val="10" id="8"/>
+     <elementSeq exposures="9" val="9" id="8"/>
+     <elementSeq exposures="10" val="13" id="8"/>
+     <elementSeq exposures="11" val="8" id="8"/>
      <elementSeq exposures="12" val="6" id="8"/>
      <elementSeq exposures="13" val="5" id="8"/>
      <elementSeq exposures="14" val="4" id="8"/>
@@ -194,7 +206,7 @@
      <elementSeq exposures="17" val="7" id="8"/>
      <elementSeq exposures="18" val="1" id="8"/>
     </column>
-    <column type="0" name="ATV-095779D503A316AD" display="false" displayOrder="1" width="100" anonymous="true" id="9">
+    <column type="0" name="ATV-095779D503A316AD" displayOrder="1" width="100" anonymous="true" id="9">
      <elementSeq exposures="1-18" val="1" id="9"/>
     </column>
    </columns>
@@ -364,6 +376,7 @@
      </module>
      <module type="READ" name="Line_2" pos="0,0,0" publishUnderTab="Line_2">
       <options>
+       <disabled val="true"/>
        <version val="1"/>
        <collapsed val="false"/>
       </options>
