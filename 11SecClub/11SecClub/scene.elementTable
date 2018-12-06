@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<elements source="Harmony Advanced (HarmonyAdvanced.exe) version 14.0.1 build 12463 2017-04-10 10:58:55" version="1401" build="12463">
+ <element id="1" elementName="It_is_Better_To_Live" elementFolder="It_is_Better_To_Live" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="6" elementName="HandBlack" elementFolder="HandBlack" pixmapFormat="10" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
+ <element id="8" elementName="HandBlack" elementFolder="HandBlack.8" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="9" elementName="MOuth_Try" elementFolder="MOuth_Try" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="10" elementName="Mouth_Shapes" elementFolder="Mouth_Shapes" pixmapFormat="11" scanType="2" fieldChart="12" vectorType="0" rootFolder="elements"/>
+ <element id="11" elementName="Background" elementFolder="Background" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="12" elementName="Nose" elementFolder="Nose" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="13" elementName="Eye" elementFolder="Eye" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="14" elementName="face" elementFolder="face" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+</elements>
