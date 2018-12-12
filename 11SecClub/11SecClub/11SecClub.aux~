@@ -61,10 +61,7 @@
   <Drawing Key="" Name="58" Version="1"/>
   <Drawing Key="" Name="59" Version="1"/>
   <Drawing Key="" Name="60" Version="1"/>
- </Element>
- <Element Name="HandBlack" ID="6" Folder="HandBlack">
-  <Drawing Key="" Name="1" Version="1"/>
-  <Drawing Key="" Name="2" Version="1"/>
+  <Drawing Key="" Name="61" Version="1"/>
  </Element>
  <Element Name="HandBlack" ID="8" Folder="HandBlack.8">
   <Drawing Key="" Name="1" Version="1"/>
@@ -174,6 +171,7 @@
   <Drawing Key="" Name="105" Version="1"/>
   <Drawing Key="" Name="106" Version="1"/>
   <Drawing Key="" Name="107" Version="1"/>
+  <Drawing Key="" Name="108" Version="1"/>
  </Element>
  <Element Name="MOuth_Try" ID="9" Folder="MOuth_Try">
   <Drawing Key="" Name="1" Version="1"/>
@@ -265,6 +263,67 @@
   <Drawing Key="" Name="87" Version="1"/>
   <Drawing Key="" Name="88" Version="1"/>
   <Drawing Key="" Name="89" Version="1"/>
+  <Drawing Key="" Name="90" Version="1"/>
+  <Drawing Key="" Name="91" Version="1"/>
+  <Drawing Key="" Name="92" Version="1"/>
+  <Drawing Key="" Name="93" Version="1"/>
+  <Drawing Key="" Name="94" Version="1"/>
+  <Drawing Key="" Name="95" Version="1"/>
+  <Drawing Key="" Name="96" Version="1"/>
+  <Drawing Key="" Name="97" Version="1"/>
+  <Drawing Key="" Name="98" Version="1"/>
+  <Drawing Key="" Name="99" Version="1"/>
+  <Drawing Key="" Name="100" Version="1"/>
+  <Drawing Key="" Name="101" Version="1"/>
+  <Drawing Key="" Name="102" Version="1"/>
+  <Drawing Key="" Name="103" Version="1"/>
+  <Drawing Key="" Name="104" Version="1"/>
+  <Drawing Key="" Name="105" Version="1"/>
+  <Drawing Key="" Name="106" Version="1"/>
+  <Drawing Key="" Name="107" Version="1"/>
+  <Drawing Key="" Name="108" Version="1"/>
+  <Drawing Key="" Name="109" Version="1"/>
+  <Drawing Key="" Name="110" Version="1"/>
+  <Drawing Key="" Name="111" Version="1"/>
+  <Drawing Key="" Name="112" Version="1"/>
+  <Drawing Key="" Name="113" Version="1"/>
+  <Drawing Key="" Name="114" Version="1"/>
+  <Drawing Key="" Name="115" Version="1"/>
+  <Drawing Key="" Name="116" Version="1"/>
+  <Drawing Key="" Name="117" Version="1"/>
+  <Drawing Key="" Name="118" Version="1"/>
+  <Drawing Key="" Name="119" Version="1"/>
+  <Drawing Key="" Name="120" Version="1"/>
+  <Drawing Key="" Name="121" Version="1"/>
+  <Drawing Key="" Name="122" Version="1"/>
+  <Drawing Key="" Name="123" Version="1"/>
+  <Drawing Key="" Name="124" Version="1"/>
+  <Drawing Key="" Name="125" Version="1"/>
+  <Drawing Key="" Name="126" Version="1"/>
+  <Drawing Key="" Name="127" Version="1"/>
+  <Drawing Key="" Name="128" Version="1"/>
+  <Drawing Key="" Name="129" Version="1"/>
+  <Drawing Key="" Name="130" Version="1"/>
+  <Drawing Key="" Name="131" Version="1"/>
+  <Drawing Key="" Name="132" Version="1"/>
+  <Drawing Key="" Name="133" Version="1"/>
+  <Drawing Key="" Name="134" Version="1"/>
+  <Drawing Key="" Name="135" Version="1"/>
+  <Drawing Key="" Name="136" Version="1"/>
+  <Drawing Key="" Name="137" Version="1"/>
+  <Drawing Key="" Name="138" Version="1"/>
+  <Drawing Key="" Name="139" Version="1"/>
+  <Drawing Key="" Name="140" Version="1"/>
+  <Drawing Key="" Name="141" Version="1"/>
+  <Drawing Key="" Name="142" Version="1"/>
+  <Drawing Key="" Name="143" Version="1"/>
+  <Drawing Key="" Name="144" Version="1"/>
+  <Drawing Key="" Name="145" Version="1"/>
+  <Drawing Key="" Name="146" Version="1"/>
+  <Drawing Key="" Name="147" Version="1"/>
+  <Drawing Key="" Name="148" Version="1"/>
+  <Drawing Key="" Name="149" Version="1"/>
+  <Drawing Key="" Name="150" Version="1"/>
  </Element>
  <Element Name="Mouth_Shapes" ID="10" Folder="Mouth_Shapes">
   <Drawing Key="" Name="1" Version="1"/>
@@ -360,6 +419,29 @@
   <Drawing Key="" Name="84" Version="1"/>
   <Drawing Key="" Name="85" Version="1"/>
   <Drawing Key="" Name="86" Version="1"/>
+  <Drawing Key="" Name="87" Version="1"/>
+  <Drawing Key="" Name="88" Version="1"/>
+  <Drawing Key="" Name="89" Version="1"/>
+  <Drawing Key="" Name="90" Version="1"/>
+  <Drawing Key="" Name="91" Version="1"/>
+  <Drawing Key="" Name="92" Version="1"/>
+  <Drawing Key="" Name="93" Version="1"/>
+  <Drawing Key="" Name="94" Version="1"/>
+  <Drawing Key="" Name="95" Version="1"/>
+  <Drawing Key="" Name="96" Version="1"/>
+  <Drawing Key="" Name="97" Version="1"/>
+  <Drawing Key="" Name="98" Version="1"/>
+  <Drawing Key="" Name="99" Version="1"/>
+  <Drawing Key="" Name="100" Version="1"/>
+  <Drawing Key="" Name="101" Version="1"/>
+  <Drawing Key="" Name="102" Version="1"/>
+  <Drawing Key="" Name="103" Version="1"/>
+  <Drawing Key="" Name="104" Version="1"/>
+  <Drawing Key="" Name="105" Version="1"/>
+  <Drawing Key="" Name="106" Version="1"/>
+  <Drawing Key="" Name="107" Version="1"/>
+  <Drawing Key="" Name="108" Version="1"/>
+  <Drawing Key="" Name="109" Version="1"/>
  </Element>
  <Element Name="Eye" ID="13" Folder="Eye">
   <Drawing Key="" Name="1" Version="1"/>
@@ -451,6 +533,8 @@
   <Drawing Key="" Name="87" Version="1"/>
   <Drawing Key="" Name="88" Version="1"/>
   <Drawing Key="" Name="89" Version="1"/>
+  <Drawing Key="" Name="90" Version="1"/>
+  <Drawing Key="" Name="91" Version="1"/>
  </Element>
  <Element Name="face" ID="14" Folder="face">
   <Drawing Key="" Name="1" Version="1"/>
@@ -488,5 +572,16 @@
   <Drawing Key="" Name="33" Version="1"/>
   <Drawing Key="" Name="34" Version="1"/>
   <Drawing Key="" Name="35" Version="1"/>
+ </Element>
+ <Element Name="Sleeve" ID="15" Folder="Sleeve">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="2" Version="1"/>
+  <Drawing Key="" Name="3" Version="1"/>
+  <Drawing Key="" Name="4" Version="1"/>
+  <Drawing Key="" Name="5" Version="1"/>
+  <Drawing Key="" Name="6" Version="1"/>
+  <Drawing Key="" Name="7" Version="1"/>
+  <Drawing Key="" Name="8" Version="1"/>
+  <Drawing Key="" Name="9" Version="1"/>
  </Element>
 </SceneVersion>
